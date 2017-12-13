@@ -1,0 +1,5 @@
+/Users/Kirill/Projects/BKIT_labs/Lab_02/obj/x86/Debug/Lab_02.csproj.CoreCompileInputs.cache
+/Users/Kirill/Projects/BKIT_labs/Lab_02/bin/Debug/Lab_02.exe
+/Users/Kirill/Projects/BKIT_labs/Lab_02/bin/Debug/Lab_02.pdb
+/Users/Kirill/Projects/BKIT_labs/Lab_02/obj/x86/Debug/Lab_02.exe
+/Users/Kirill/Projects/BKIT_labs/Lab_02/obj/x86/Debug/Lab_02.pdb
