@@ -1,0 +1,4 @@
+Z:\Users\Kirill\Projects\BKIT_labs\!!!_SimpleLINQ\SimpleLINQ\obj\x86\Debug\SimpleLINQ.exe
+Z:\Users\Kirill\Projects\BKIT_labs\!!!_SimpleLINQ\SimpleLINQ\obj\x86\Debug\SimpleLINQ.pdb
+Z:\Users\Kirill\Projects\BKIT_labs\!!!_SimpleLINQ\SimpleLINQ\bin\Debug\SimpleLINQ.exe
+Z:\Users\Kirill\Projects\BKIT_labs\!!!_SimpleLINQ\SimpleLINQ\bin\Debug\SimpleLINQ.pdb

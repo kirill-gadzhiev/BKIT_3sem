@@ -1,0 +1,5 @@
+/Users/Kirill/Projects/BKIT_labs/!!!_SimpleLINQ/SimpleLINQ/bin/Release/SimpleLINQ.exe
+/Users/Kirill/Projects/BKIT_labs/!!!_SimpleLINQ/SimpleLINQ/bin/Release/SimpleLINQ.pdb
+/Users/Kirill/Projects/BKIT_labs/!!!_SimpleLINQ/SimpleLINQ/obj/x86/Release/SimpleLINQ.csproj.CoreCompileInputs.cache
+/Users/Kirill/Projects/BKIT_labs/!!!_SimpleLINQ/SimpleLINQ/obj/x86/Release/SimpleLINQ.exe
+/Users/Kirill/Projects/BKIT_labs/!!!_SimpleLINQ/SimpleLINQ/obj/x86/Release/SimpleLINQ.pdb
